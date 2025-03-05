@@ -70,7 +70,7 @@ User Receives Mood Analysis & Suggestions
 - **Privacy-Focused Edge AI** for local processing.
 
 ## 👥 Contributors
-- **[Jyothi Laxmi]** - Lead Developer
+- **Jyothi Laxmi** - Lead Developer
 
 For queries, reach out to **jyothilaxmipoosaala@gmail.com**.
 
