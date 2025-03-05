@@ -70,10 +70,9 @@ User Receives Mood Analysis & Suggestions
 - **Privacy-Focused Edge AI** for local processing.
 
 ## 👥 Contributors
-- **[Your Name]** - Lead Developer
-- **[Team Members]** - Contributors
+- **[Jyothi Laxmi]** - Lead Developer
 
-For queries, reach out to **your-email@example.com**.
+For queries, reach out to **jyothilaxmipoosaala@gmail.com**.
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
